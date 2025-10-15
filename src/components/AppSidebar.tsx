@@ -43,7 +43,7 @@ export function AppSidebar() {
             <GraduationCap className="w-6 h-6 text-white" />
           </div>
           <div>
-            <h2 className="font-bold text-lg text-foreground">College CRM</h2>
+            <h2 className="font-bold text-lg text-foreground">Settlo College CRM</h2>
             <p className="text-xs text-muted-foreground">Management System</p>
           </div>
         </div>
